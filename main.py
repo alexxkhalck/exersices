@@ -17,4 +17,4 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-# I see your code
+# Hello. I see your code
