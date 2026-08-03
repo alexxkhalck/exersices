@@ -1,0 +1,6 @@
+from methods import save_all_search_results
+from methods import deserialize_search_results
+from arreyoflaptops import list_laptops
+
+save_all_search_results(list_laptops)
+print(deserialize_search_results())
